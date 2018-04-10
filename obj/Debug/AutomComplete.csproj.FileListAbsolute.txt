@@ -1,9 +1,0 @@
-C:\Users\Jarvis\source\repos\AutomComplete\AutomComplete\bin\AutomComplete.dll.config
-C:\Users\Jarvis\source\repos\AutomComplete\AutomComplete\bin\AutomComplete.dll
-C:\Users\Jarvis\source\repos\AutomComplete\AutomComplete\bin\AutomComplete.pdb
-C:\Users\Jarvis\source\repos\AutomComplete\AutomComplete\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Jarvis\source\repos\AutomComplete\AutomComplete\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Jarvis\source\repos\AutomComplete\AutomComplete\obj\Debug\AutomComplete.csprojResolveAssemblyReference.cache
-C:\Users\Jarvis\source\repos\AutomComplete\AutomComplete\obj\Debug\AutomComplete.csproj.CoreCompileInputs.cache
-C:\Users\Jarvis\source\repos\AutomComplete\AutomComplete\obj\Debug\AutomComplete.dll
-C:\Users\Jarvis\source\repos\AutomComplete\AutomComplete\obj\Debug\AutomComplete.pdb
